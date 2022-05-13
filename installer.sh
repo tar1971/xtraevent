@@ -6,7 +6,7 @@
 ###########################################
 #!/bin/sh
 echo
-rm -f /usr/lib/enigma2/Plugins/Extensions/xtraEvent
+opkg remove /usr/lib/enigma2/Plugins/Extensions/xtraEvent
 wait
 opkg install --force-overwrite https://github.com/tar1971/xtraevent/blob/main/enigma2-plugin-extensions-xtraevent_v4.9_all.ipk?raw=true
 wait
