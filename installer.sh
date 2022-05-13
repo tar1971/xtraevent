@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tar1971/xtraevent/main/installer1.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tar1971/xtraevent/main/installer.sh -O - | /bin/sh
 ##
 ###########################################
 ###########################################
