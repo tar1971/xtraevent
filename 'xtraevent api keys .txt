@@ -1,0 +1,9 @@
+https://www.themoviedb.org/signup
+
+https://thetvdb.com/auth/register
+
+https://www.omdbapi.com/
+apikey.aspx
+
+https://fanart.tv/wp-login.php?
+action=register
